@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-Repositorio de prueba del modulo 2 
+Kelvin, este es una prueba de como crear un repositorio y clonarlo desde github 
